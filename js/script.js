@@ -36,6 +36,6 @@ if (orderHasShipped === true) {
 
 // Create a for loop that counts from 7 to 13. Console log the value of the counter variable inside the loop.
 
-for (i = 7; i <= 13; i++) {
+for (var i = 7; i <= 13; i++) {
   console.log(i);
 }
